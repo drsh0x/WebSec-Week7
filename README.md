@@ -32,11 +32,13 @@ Time spent: **3** hours spent in total
 - [x] Fixed in version: `4.2.3`
 
 - [x] GIF Walkthrough: 
-
+  ![xss1](https://i.imgur.com/8CNIpwL.gif)
 
 - [x] Affected source code:   [Changeset 33359](https://core.trac.wordpress.org/changeset/33359)
 
+
 &nbsp;
+
 2. **Stored Cross-Site Scripting (XSS) in YouTube URL Embeds | CVE-2017-6817**
 
 - [x] Summary : 
@@ -48,12 +50,14 @@ Time spent: **3** hours spent in total
 
 - [x] Fixed in version: `4.7.3`
 
-- [x] GIF Walkthrough: 
-
 
 - [x] Affected source code:   [Commit](https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca8)
 
+- [x] GIF Walkthrough: 
+![xss2](https://i.imgur.com/NfMhfxD.gif)
+
 &nbsp;
+
 3. **Unauthenticated Stored Cross-Site Scripting (XSS) in Comments | CVE-2015-3440**
 
 - [x] Summary : 
@@ -66,7 +70,7 @@ Time spent: **3** hours spent in total
 - [x] Fixed in version: `4.2.1`
 
 - [x] GIF Walkthrough: 
-
+  ![xss1](https://i.imgur.com/tRhgDLX.gif)
 
 - [x] Affected source code:   [Changeset 32299](https://core.trac.wordpress.org/changeset/32299)
 
@@ -94,31 +98,18 @@ None
   
 
 ## License
-
   
 
-Copyright [2018] [drsh0x]
+    Copyright [2018] [drsh0x]
 
-  
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
 
-Licensed under the Apache License, Version 2.0 (the "License");
+        http://www.apache.org/licenses/LICENSE-2.0
 
-you may not use this file except in compliance with the License.
-
-You may obtain a copy of the License at
-
-  
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-  
-
-Unless required by applicable law or agreed to in writing, software
-
-distributed under the License is distributed on an "AS IS" BASIS,
-
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-
-See the License for the specific language governing permissions and
-
-limitations under the License.
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
